@@ -1,0 +1,6 @@
+D:\VsProjects\RobertUtil\FlexTest\bin\Debug\FlexTest.XML
+D:\VsProjects\RobertUtil\FlexTest\bin\Debug\FlexTest.exe
+D:\VsProjects\RobertUtil\FlexTest\bin\Debug\FlexTest.pdb
+D:\VsProjects\RobertUtil\FlexTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\FlexTest\obj\x86\Debug\FlexTest.exe
+D:\VsProjects\RobertUtil\FlexTest\obj\x86\Debug\FlexTest.pdb

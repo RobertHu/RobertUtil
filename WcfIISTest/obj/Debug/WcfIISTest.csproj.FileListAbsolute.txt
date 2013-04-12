@@ -1,0 +1,8 @@
+D:\VsProjects\RobertUtil\WcfIISTest\bin\WcfIISTest.dll
+D:\VsProjects\RobertUtil\WcfIISTest\bin\WcfIISTest.pdb
+D:\VsProjects\RobertUtil\WcfIISTest\bin\Framework.dll
+D:\VsProjects\RobertUtil\WcfIISTest\bin\iExchange.Common.dll
+D:\VsProjects\RobertUtil\WcfIISTest\bin\Framework.pdb
+D:\VsProjects\RobertUtil\WcfIISTest\obj\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\WcfIISTest\obj\Debug\WcfIISTest.dll
+D:\VsProjects\RobertUtil\WcfIISTest\obj\Debug\WcfIISTest.pdb

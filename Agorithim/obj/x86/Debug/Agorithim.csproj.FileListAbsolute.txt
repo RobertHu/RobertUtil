@@ -1,0 +1,5 @@
+D:\VsProjects\RobertUtil\Agorithim\bin\Debug\Agorithim.exe
+D:\VsProjects\RobertUtil\Agorithim\bin\Debug\Agorithim.pdb
+D:\VsProjects\RobertUtil\Agorithim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\Agorithim\obj\x86\Debug\Agorithim.exe
+D:\VsProjects\RobertUtil\Agorithim\obj\x86\Debug\Agorithim.pdb

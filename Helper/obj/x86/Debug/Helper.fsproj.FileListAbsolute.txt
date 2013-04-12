@@ -1,0 +1,6 @@
+D:\VsProjects\RobertUtil\Helper\bin\Debug\Helper.XML
+D:\VsProjects\RobertUtil\Helper\bin\Debug\Helper.exe
+D:\VsProjects\RobertUtil\Helper\bin\Debug\Helper.pdb
+D:\VsProjects\RobertUtil\Helper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\Helper\obj\x86\Debug\Helper.exe
+D:\VsProjects\RobertUtil\Helper\obj\x86\Debug\Helper.pdb

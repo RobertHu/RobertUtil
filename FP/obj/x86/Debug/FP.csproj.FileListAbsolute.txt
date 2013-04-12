@@ -1,0 +1,5 @@
+D:\VsProjects\RobertUtil\FP\bin\Debug\FP.exe
+D:\VsProjects\RobertUtil\FP\bin\Debug\FP.pdb
+D:\VsProjects\RobertUtil\FP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\FP\obj\x86\Debug\FP.exe
+D:\VsProjects\RobertUtil\FP\obj\x86\Debug\FP.pdb

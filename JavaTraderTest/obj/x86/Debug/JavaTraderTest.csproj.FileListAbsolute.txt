@@ -1,0 +1,9 @@
+D:\VsProjects\RobertUtil\JavaTraderTest\bin\Debug\JavaTraderTest.exe.config
+D:\VsProjects\RobertUtil\JavaTraderTest\bin\Debug\JavaTraderTest.exe
+D:\VsProjects\RobertUtil\JavaTraderTest\bin\Debug\JavaTraderTest.pdb
+D:\VsProjects\RobertUtil\JavaTraderTest\bin\Debug\Framework.dll
+D:\VsProjects\RobertUtil\JavaTraderTest\bin\Debug\iExchange.Common.dll
+D:\VsProjects\RobertUtil\JavaTraderTest\bin\Debug\Framework.pdb
+D:\VsProjects\RobertUtil\JavaTraderTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\JavaTraderTest\obj\x86\Debug\JavaTraderTest.exe
+D:\VsProjects\RobertUtil\JavaTraderTest\obj\x86\Debug\JavaTraderTest.pdb
