@@ -44,6 +44,7 @@
     <None Include="analysisSessionLog.fsx" />
     <None Include="Quotation4Bit.fsx" />
     <None Include="FindFile.fsx" />
+    <None Include="tcp.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
