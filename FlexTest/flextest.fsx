@@ -68,3 +68,8 @@ open System.Text
 let str = "<Request><Arguments><AccountId>cbcdb06f-141a-415f-bdda-a676bd5759b7</AccountId></Arguments><Method>getInitData</Method></Request>"
 
 printfn "%d" (Encoding.UTF8.GetBytes(str).Length)
+
+
+
+let x = 0.5m
+printfn "%s" (System.String.Format("{0:n0}",x))

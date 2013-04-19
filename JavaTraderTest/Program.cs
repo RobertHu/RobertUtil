@@ -6,6 +6,7 @@ using System.ServiceModel;
 using iExchange.Common;
 using System.Diagnostics;
 using System.Net.Sockets;
+using System.IO;
 
 namespace JavaTraderTest
 {
@@ -15,7 +16,10 @@ namespace JavaTraderTest
         {
             try
             {
-                TcpClient client = new TcpClient("do3.iexchange.bz", 8000);
+                string path = @"D:\Work\javaTrader\lines.txt";
+                string target = ".*?(xmlNode2.get_Item[(]\".*\"[)].*";
+                FileStream stream = new FileStream(path, FileMode.Create, FileAccess.Write);
+                stream.Close();
             }
             catch (Exception ex)
             {

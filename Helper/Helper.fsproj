@@ -45,6 +45,7 @@
     <None Include="Quotation4Bit.fsx" />
     <None Include="FindFile.fsx" />
     <None Include="tcp.fsx" />
+    <None Include="searchAndReplace.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
