@@ -1,16 +1,13 @@
-﻿
+﻿#load "common.fsx"
 open System
 open System.Text.RegularExpressions
 open System.IO
-
+open Common
 
 let path = @"D:\Teams\iExchangeCollection\iExchange3 Team\iExchange3Promotion\AsynchronousSslStream\Util\ClientRequestHelper.cs"
 
 
-let (|Reg|_|) (pattern,input) =
-    let regex = new Regex(pattern,RegexOptions.IgnoreCase)
-    let result = regex.Match(input)
-    if result.Success then Some(result.Groups.[1].Value) else None
+
 
 
 let input ="if (methodName == \"GetInitData\")"

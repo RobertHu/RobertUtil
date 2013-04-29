@@ -46,6 +46,8 @@
     <None Include="FindFile.fsx" />
     <None Include="tcp.fsx" />
     <None Include="searchAndReplace.fsx" />
+    <None Include="logAnalasis.fsx" />
+    <None Include="common.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
