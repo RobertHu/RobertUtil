@@ -1,0 +1,9 @@
+D:\VsProjects\RobertUtil\ExpertFsharp\bin\Debug\ExpertFsharp.exe.config
+D:\VsProjects\RobertUtil\ExpertFsharp\bin\Debug\ExpertFsharp.XML
+D:\VsProjects\RobertUtil\ExpertFsharp\bin\Debug\ExpertFsharp.exe
+D:\VsProjects\RobertUtil\ExpertFsharp\bin\Debug\ExpertFsharp.pdb
+D:\VsProjects\RobertUtil\ExpertFsharp\bin\Debug\FSharp.Core.dll
+D:\VsProjects\RobertUtil\ExpertFsharp\bin\Debug\FSharp.Core.xml
+D:\VsProjects\RobertUtil\ExpertFsharp\obj\Debug\ExpertFsharp.fsprojResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\ExpertFsharp\obj\Debug\ExpertFsharp.exe
+D:\VsProjects\RobertUtil\ExpertFsharp\obj\Debug\ExpertFsharp.pdb

@@ -1,0 +1,7 @@
+D:\VsProjects\RobertUtil\FLib\bin\Debug\FLib.XML
+D:\VsProjects\RobertUtil\FLib\bin\Debug\FLib.dll
+D:\VsProjects\RobertUtil\FLib\bin\Debug\FLib.pdb
+D:\VsProjects\RobertUtil\FLib\bin\Debug\FSharp.Core.dll
+D:\VsProjects\RobertUtil\FLib\bin\Debug\FSharp.Core.xml
+D:\VsProjects\RobertUtil\FLib\obj\Debug\FLib.dll
+D:\VsProjects\RobertUtil\FLib\obj\Debug\FLib.pdb

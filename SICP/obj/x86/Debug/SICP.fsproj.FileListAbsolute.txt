@@ -1,0 +1,6 @@
+D:\VsProjects\RobertUtil\SICP\bin\Debug\SICP.XML
+D:\VsProjects\RobertUtil\SICP\bin\Debug\SICP.exe
+D:\VsProjects\RobertUtil\SICP\bin\Debug\SICP.pdb
+D:\VsProjects\RobertUtil\SICP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\RobertUtil\SICP\obj\x86\Debug\SICP.exe
+D:\VsProjects\RobertUtil\SICP\obj\x86\Debug\SICP.pdb
