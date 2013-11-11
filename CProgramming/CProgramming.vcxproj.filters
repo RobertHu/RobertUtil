@@ -18,5 +18,13 @@
     <ClCompile Include="First.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="strcat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="strcat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

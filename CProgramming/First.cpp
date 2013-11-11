@@ -1,15 +1,12 @@
 #include <stdio.h>
+#include "strcat.h"
 
 int main()
 {
 	
-	long nc=0;
-	while(getchar()!='x')
-	{
-		nc++;
-	}
-	printf("%1d\n",nc);
-
+	char *s= "Robert ";
+	char *t = "Hu";
+	printf("%s\n",strcat(s,t));
 	char d = getchar();
 
 
